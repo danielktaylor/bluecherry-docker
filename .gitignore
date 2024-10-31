@@ -1,7 +1,7 @@
-.env
 database/
 recordings/
 bluecherry.conf
 app/
 docker-compose.override.yml
 uptime-kuma-data/
+data/bconf
